@@ -3,6 +3,15 @@ let country = 'India';
 let continent = 'Asia';
 let population = 1380004385;
 
-console.log(country);
-console.log(continent);
-console.log(population);
+console.log('country :>> ', country);
+console.log('continent :>> ', continent);
+console.log('population :>> ', population);
+
+//? Data types
+let isIsland = false;
+let language;
+
+console.log('isIsland :>> ', isIsland);
+console.log('population :>> ', population);
+console.log('country :>> ', country);
+console.log('language :>> ', language);
