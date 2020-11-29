@@ -8,10 +8,13 @@ console.log('continent :>> ', continent);
 console.log('population :>> ', population);
 
 //? Data types
-let isIsland = false;
+const isIsland = false;
 let language;
 
 console.log('isIsland :>> ', isIsland);
 console.log('population :>> ', population);
 console.log('country :>> ', country);
 console.log('language :>> ', language);
+
+//? let, const and var
+language = 'Punjabi';
